@@ -23,6 +23,10 @@ sections:
   match: "**/[!index]*"
   templates:
   - journal
+- type: document
+  path: contact/index.md
+  label: Contact
+  match: "**/*"
 - type: heading
   label: Data
 - type: document
