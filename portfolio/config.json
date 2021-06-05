@@ -1,0 +1,26 @@
+{
+    "title": "고아침 Koh Achim",
+    "description": "Programmer, researcher, translator",
+    "footer": "",
+    "favicon": "favicon-32x32.png",
+    "navigation": [
+      {
+        "text": "작업 Works",
+        "link": "/",
+        "position": "right",
+        "external": false
+      },
+      {
+        "text": "기록 Journal",
+        "link": "/journal/",
+        "position": "right",
+        "external": false
+      },
+      {
+        "text": "연락처 Contact",
+        "link": "/contact/",
+        "position": "right",
+        "external": false
+      }
+    ]
+  }
