@@ -143,7 +143,7 @@
     margin: 0 auto;
   }
 
-  h1,h2,h3,h4,h5,h6,p {
+  h1,h2,h3,h4,h5,h6,p,ul {
     width: 100%;
     max-width: 800px;
   }
@@ -167,7 +167,7 @@
     margin: 2rem auto 1rem auto;
   }
 
-  p {
+  p, ul {
     font-size: 1rem;
     line-height: 1.5;
     margin: 1rem auto 2rem auto;
